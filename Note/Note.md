@@ -17,25 +17,26 @@
     *近义表达*
     - world-beating
 
-4. **here to stay**
+5. **here to stay**
 
-5. **put sth. to good use**
+6. **put sth. to good use**
    
    *近义表达*
     - make the most of sth.
 
 
+---------------------
 ## Day2
-6. **throw / shed / cast light on sth.**
+7. **throw / shed / cast light on sth.**
    
-7. **the ins and outs of sth.**
+8. **the ins and outs of sth.**
 
-8. **make inroads into / on sth.**
+9. **make inroads into / on sth.**
     *近义表达*
     - make headway
-9.  **be the mainstay of sth.**
+10.  **be the mainstay of sth.**
 
-10. **turn sth. upside down**
+
 
 --------
 
@@ -47,7 +48,8 @@ British industrial revolution turned traditional mode of production upside down,
 --------
 
 ## Day3
-11. **live up to**
+11. **turn sth. upside down**
+12. **live up to**
     = to be as good as
 
     live up to standard / promise / exceptions etc
@@ -55,19 +57,39 @@ British industrial revolution turned traditional mode of production upside down,
     *近义表达*
     - match up to
 
-12. **in the vanguard of sth.**
+13. **in the vanguard of sth.**
     = in the most advanced position of development 
     
     *近义表达*
     - at the forefront of sth. / be in the van of sth.
 
-13. **keep track of sb. / sth.**
+14. **keep track of sb. / sth.**
     = to have information about what is happening
 
     *反义表达*
     - lose track of sb. / sth.
 
-14. **beyond sb's wildest dreams**
+15. **beyond sb's wildest dreams**
     = to be replaced by something; / 
     to allow yourself to be very strongly affected by something
 
+------------------------
+## Day4 :sleepy:
+
+16. **make light work of sth.**
+    = to do something quickly and easily
+
+    *反义表达*
+    - make hard work of sth
+
+17. **fall into the wrong hands**
+    = to come to be held or possessed by the wrong person or group
+
+18. **by / through trial and error**
+    = to test many different methods of doing something in order to find the best
+
+19. **bring sth. in its train**
+    = to have something as a result
+
+20. **have sth. at your fingertips**
+    = to have kmowledge or information ready and available to use very easily
