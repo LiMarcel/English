@@ -93,3 +93,44 @@ British industrial revolution turned traditional mode of production upside down,
 
 20. **have sth. at your fingertips**
     = to have kmowledge or information ready and available to use very easily
+
+-----------------------
+
+## Day5
+
+21. **on the horizon**
+    = to seem likely happen in the future
+
+22. **in harmony with sth.**
+    = to agree with another idea, feeling etc, or looking good with other things
+
+    *反义表达*
+    - out of tune with sb. / sth.
+
+23. **a double-edged sword / weapon**
+    = something that seems to be good, but that can have a bad effect
+
+    *近义表达*
+    - a mixed blessing
+
+24. **ahead of your / its time**
+    = having the most advanced ideas, methods, designs, technology etc.
+
+25. **tried and tested / trusted**
+    = used many times before and proved to be successful
+
+-------
+
+### :rofl:
+
+*例句*
+我们必须要让人们意识到，只有将中国传统优秀文化与世界先进文化相结合，才能顺应时代潮流
+
+We should make people realize that, only if we combine the China's outstanding traditional culture with the world's state-of-the-art culture can we keep track of the tide of the time.
+
+只有长久的努力才能取得成功，许多半途而废的人总将自己的失败归因于外部因素。
+
+Only by trial and error can people make progress. Many people who give up halfway always assigned their failure to external factors.
+
+------
+
