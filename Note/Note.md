@@ -40,7 +40,7 @@
 
 --------
 
-*例句*：
+### *例句*：
 英国工业革命颠覆了传统生产方式，蒸汽机的发明极大影响了手工生产。同时，这一系列的改变也让英国的经济水平，政治体制，文化产业等处于世界前沿。
 
 British industrial revolution turned traditional mode of production upside down, and the invention of the stream engine made inroads on handmade production. Meanwhile, the series of changes made the economic level, political system, cultural industries state-of-the art. 
@@ -121,9 +121,8 @@ British industrial revolution turned traditional mode of production upside down,
 
 -------
 
-### :rofl:
+### :rofl:*例句*
 
-*例句*
 我们必须要让人们意识到，只有将中国传统优秀文化与世界先进文化相结合，才能顺应时代潮流
 
 We should make people realize that, only if we combine the China's outstanding traditional culture with the world's state-of-the-art culture can we keep track of the tide of the time.
@@ -134,3 +133,37 @@ Only by trial and error can people make progress. Many people who give up halfwa
 
 ------
 
+## Day6
+
+26. **marry sth. with / to sth.**
+    = to combine two different ideas, designs, tastes etc. together
+
+27. **move with the times**
+    = to change the way you think and behave, as society changes
+
+    *近义表达*
+    - keep up with times
+
+28. **the advent of sth.**
+    = the introduction of a new product, idea, custom etc
+
+29. **stand the test of time**
+    = to continue to be effective, successful, or popular for a long time
+
+30. **reap the benefit / reward (of sth.)**
+    = to get something as a result of what you have done
+
+
+-------
+
+### :rofl:*例句*
+
+我们必须要让人们意识到，只有将中国传统优秀文化与世界先进文化相结合，才能顺应时代潮流
+
+We should awaken people to the fact that, to move with the times, the only way we can take is marrying China's out standing traditional culture with word's state-of-the-art culture.
+
+只有长久的努力才能取得成功，许多半途而废的人总将自己的失败归因于外部因素。
+
+People who give up halfway always ascribe their failure to external factors without the idea that success involves long-term hard work.
+(稍微调整了原意)
+------
